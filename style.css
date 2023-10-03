@@ -6,7 +6,7 @@ body * {
 :root {
   --gray: rgb(211, 211, 209);
   --green: rgb(53, 141, 6);
-  --light: rgb(121, 182, 88);
+  --light: rgb(120, 180, 88);
   --selected: rgb(41, 70, 24);
   --hover: rgb(107, 184, 66);
   --hoverbutton: rgb(40, 68, 24);
